@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.cody</groupId>
-    <artifactId>trace-1</artifactId>
+    <artifactId>trace-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>trace-1</name>
+    <name>trace-2</name>
     <description>SpringCloudSleuth</description>
 
     <properties>
